@@ -1,0 +1,2 @@
+# Sample
+Submit Intellipath assignments 
